@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LinearLayoutApp</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+</resources>
